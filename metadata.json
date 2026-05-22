@@ -1,0 +1,8 @@
+{
+  "name": "Italki Landing Page",
+  "description": "A modern, persuasive landing page for italki, focusing on 1-on-1 global language learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
